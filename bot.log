@@ -1,0 +1,813 @@
+2024-11-06 17:50:04,500 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 17:50:04,795 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 17:50:23,838 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 17:50:24,104 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 17:50:31,656 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 17:50:31,868 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 17:50:58,176 - aiogram.event - INFO - Update id=883190000 is handled. Duration 375 ms by bot id=6998966428
+2024-11-06 17:50:59,831 - aiogram.event - INFO - Update id=883190001 is not handled. Duration 0 ms by bot id=6998966428
+2024-11-06 17:51:47,224 - aiogram.event - INFO - Update id=883190002 is handled. Duration 233 ms by bot id=6998966428
+2024-11-06 17:51:50,748 - aiogram.event - INFO - Update id=883190003 is handled. Duration 94 ms by bot id=6998966428
+2024-11-06 17:51:51,982 - aiogram.event - INFO - Update id=883190004 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 17:51:53,873 - aiogram.event - INFO - Update id=883190005 is handled. Duration 94 ms by bot id=6998966428
+2024-11-06 17:51:54,648 - aiogram.event - INFO - Update id=883190006 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 17:51:57,132 - aiogram.event - INFO - Update id=883190007 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 17:52:43,475 - aiogram.event - INFO - Update id=883190008 is handled. Duration 264 ms by bot id=6998966428
+2024-11-06 17:52:52,313 - aiogram.event - INFO - Update id=883190009 is not handled. Duration 0 ms by bot id=6998966428
+2024-11-06 17:53:03,650 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 17:53:03,898 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 18:56:04,709 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 18:56:04,953 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 18:56:21,079 - aiogram.event - INFO - Update id=883190010 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 18:56:28,213 - aiogram.event - INFO - Update id=883190011 is not handled. Duration 0 ms by bot id=6998966428
+2024-11-06 18:56:55,823 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 18:56:56,081 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:03:58,070 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:03:58,305 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:03:58,765 - aiogram.event - INFO - Update id=883190012 is handled. Duration 375 ms by bot id=6998966428
+2024-11-06 19:04:05,787 - aiogram.event - INFO - Update id=883190013 is handled. Duration 171 ms by bot id=6998966428
+2024-11-06 19:06:15,355 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:06:15,608 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:06:23,791 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:06:24,010 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:06:24,350 - aiogram.event - INFO - Update id=883190014 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:06:25,479 - aiogram.event - INFO - Update id=883190015 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 19:06:27,747 - aiogram.event - INFO - Update id=883190016 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:09:27,999 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:09:28,258 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:10:52,646 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:10:52,898 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:10:58,204 - aiogram.event - INFO - Update id=883190017 is handled. Duration 266 ms by bot id=6998966428
+2024-11-06 19:11:00,222 - aiogram.event - INFO - Update id=883190018 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 19:11:04,479 - aiogram.event - INFO - Update id=883190019 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:11:09,473 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:11:09,747 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:12:44,992 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:12:45,217 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:12:45,665 - aiogram.event - INFO - Update id=883190020 is handled. Duration 343 ms by bot id=6998966428
+2024-11-06 19:12:48,118 - aiogram.event - INFO - Update id=883190021 is handled. Duration 875 ms by bot id=6998966428
+2024-11-06 19:12:53,460 - root - ERROR - Ошибка при обращении к OpenAI API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-06 19:12:53,461 - aiogram.event - INFO - Update id=883190022 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:13:22,078 - root - ERROR - Ошибка при обращении к OpenAI API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-06 19:13:22,078 - aiogram.event - INFO - Update id=883190023 is handled. Duration 16 ms by bot id=6998966428
+2024-11-06 19:13:30,592 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:13:30,844 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:13:44,313 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:13:44,564 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:13:52,707 - aiogram.event - INFO - Update id=883190024 is handled. Duration 313 ms by bot id=6998966428
+2024-11-06 19:14:06,462 - root - ERROR - Ошибка при обращении к OpenAI API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-06 19:14:06,463 - aiogram.event - INFO - Update id=883190025 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:14:57,401 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:14:57,658 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:15:08,191 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:15:08,403 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:15:13,418 - aiogram.event - INFO - Update id=883190026 is handled. Duration 266 ms by bot id=6998966428
+2024-11-06 19:15:16,200 - aiogram.event - INFO - Update id=883190027 is handled. Duration 156 ms by bot id=6998966428
+2024-11-06 19:15:23,094 - root - ERROR - Ошибка при обращении к OpenAI API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-06 19:15:23,095 - aiogram.event - INFO - Update id=883190028 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:16:06,524 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:16:06,784 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:23:44,134 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:23:44,413 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:23:46,663 - aiogram.event - INFO - Update id=883190029 is handled. Duration 266 ms by bot id=6998966428
+2024-11-06 19:23:50,318 - aiogram.event - INFO - Update id=883190030 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 19:24:01,038 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:24:01,044 - aiogram.event - INFO - Update id=883190031 is handled. Duration 5156 ms by bot id=6998966428
+2024-11-06 19:24:46,580 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:24:46,843 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:25:19,739 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:25:19,996 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:25:40,162 - aiogram.event - INFO - Update id=883190032 is handled. Duration 312 ms by bot id=6998966428
+2024-11-06 19:25:41,430 - aiogram.event - INFO - Update id=883190033 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:25:51,677 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:25:51,680 - aiogram.event - INFO - Update id=883190034 is handled. Duration 2172 ms by bot id=6998966428
+2024-11-06 19:26:28,319 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:26:28,576 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:27:07,986 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:27:08,219 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:27:26,225 - aiogram.event - INFO - Update id=883190035 is handled. Duration 281 ms by bot id=6998966428
+2024-11-06 19:27:27,563 - aiogram.event - INFO - Update id=883190036 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 19:27:38,173 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:27:38,181 - aiogram.event - INFO - Update id=883190037 is handled. Duration 2735 ms by bot id=6998966428
+2024-11-06 19:29:55,446 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:29:55,704 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:31:45,688 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:31:45,955 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:31:46,387 - aiogram.event - INFO - Update id=883190038 is handled. Duration 265 ms by bot id=6998966428
+2024-11-06 19:31:47,630 - aiogram.event - INFO - Update id=883190039 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 19:31:52,743 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:31:52,749 - aiogram.event - INFO - Update id=883190040 is handled. Duration 2016 ms by bot id=6998966428
+2024-11-06 19:33:23,839 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:33:24,093 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:33:33,501 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:33:33,713 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:33:34,085 - aiogram.event - INFO - Update id=883190041 is handled. Duration 281 ms by bot id=6998966428
+2024-11-06 19:33:36,781 - aiogram.event - INFO - Update id=883190042 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 19:33:45,877 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:33:45,938 - aiogram.event - INFO - Update id=883190043 is not handled. Duration 5656 ms by bot id=6998966428
+2024-11-06 19:33:45,939 - aiogram.event - ERROR - Cause exception while process update id=883190043 by bot id=6998966428
+ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 26, in handle_resp_text
+    await message.reply(answer, reply_markup=markups)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\types\message.py", line 1963, in reply
+    return SendMessage(
+           ^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\pydantic\main.py", line 193, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+2024-11-06 19:34:05,690 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:34:05,952 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:34:15,217 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:34:15,444 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:34:15,765 - aiogram.event - INFO - Update id=883190044 is handled. Duration 218 ms by bot id=6998966428
+2024-11-06 19:34:16,114 - aiogram.event - INFO - Update id=883190045 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:34:16,350 - aiogram.event - INFO - Update id=883190046 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:34:18,039 - aiogram.event - INFO - Update id=883190047 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 19:34:25,624 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:34:25,628 - aiogram.event - INFO - Update id=883190048 is not handled. Duration 2875 ms by bot id=6998966428
+2024-11-06 19:34:25,629 - aiogram.event - ERROR - Cause exception while process update id=883190048 by bot id=6998966428
+ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 28, in handle_resp_text
+    await message.reply(answer, reply_markup=markups)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\types\message.py", line 1963, in reply
+    return SendMessage(
+           ^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\pydantic\main.py", line 193, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+2024-11-06 19:35:14,720 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:35:14,979 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:35:25,182 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:35:25,462 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:35:32,700 - aiogram.event - INFO - Update id=883190049 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:35:34,891 - aiogram.event - INFO - Update id=883190050 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 19:35:40,376 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:35:40,380 - aiogram.event - INFO - Update id=883190051 is not handled. Duration 2375 ms by bot id=6998966428
+2024-11-06 19:35:40,380 - aiogram.event - ERROR - Cause exception while process update id=883190051 by bot id=6998966428
+ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 28, in handle_resp_text
+    await message.reply(text=answer[0], reply_markup=markups)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\types\message.py", line 1963, in reply
+    return SendMessage(
+           ^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\pydantic\main.py", line 193, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Нанять ...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+2024-11-06 19:36:05,976 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:36:06,243 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:36:15,825 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:36:16,084 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:36:18,642 - aiogram.event - INFO - Update id=883190052 is handled. Duration 233 ms by bot id=6998966428
+2024-11-06 19:36:21,137 - aiogram.event - INFO - Update id=883190053 is handled. Duration 110 ms by bot id=6998966428
+2024-11-06 19:36:26,423 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:36:26,427 - aiogram.event - INFO - Update id=883190054 is not handled. Duration 2860 ms by bot id=6998966428
+2024-11-06 19:36:26,427 - aiogram.event - ERROR - Cause exception while process update id=883190054 by bot id=6998966428
+ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 28, in handle_resp_text
+    await message.reply(text=answer[0], reply_markup=markups)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\types\message.py", line 1963, in reply
+    return SendMessage(
+           ^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\pydantic\main.py", line 193, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+2024-11-06 19:37:01,575 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:37:01,838 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:37:09,525 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:37:09,767 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:37:10,133 - aiogram.event - INFO - Update id=883190055 is handled. Duration 281 ms by bot id=6998966428
+2024-11-06 19:37:12,641 - aiogram.event - INFO - Update id=883190056 is handled. Duration 452 ms by bot id=6998966428
+2024-11-06 19:37:17,863 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:37:17,869 - aiogram.event - INFO - Update id=883190057 is not handled. Duration 2812 ms by bot id=6998966428
+2024-11-06 19:37:17,869 - aiogram.event - ERROR - Cause exception while process update id=883190057 by bot id=6998966428
+ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 30, in handle_resp_text
+    await message.reply(text=answer[0], reply_markup=markups)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\types\message.py", line 1963, in reply
+    return SendMessage(
+           ^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\pydantic\main.py", line 193, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+2024-11-06 19:38:38,243 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:38:38,501 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:38:46,027 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:38:46,368 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:38:46,727 - aiogram.event - INFO - Update id=883190058 is handled. Duration 264 ms by bot id=6998966428
+2024-11-06 19:38:52,585 - aiogram.event - INFO - Update id=883190059 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:39:00,467 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:39:00,471 - aiogram.event - INFO - Update id=883190060 is not handled. Duration 5250 ms by bot id=6998966428
+2024-11-06 19:39:00,471 - aiogram.event - ERROR - Cause exception while process update id=883190060 by bot id=6998966428
+ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 30, in handle_resp_text
+    await message.reply(text=answer[0], reply_markup=markups)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\types\message.py", line 1963, in reply
+    return SendMessage(
+           ^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\pydantic\main.py", line 193, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for SendMessage
+reply_markup.InlineKeyboardMarkup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardMarkup
+  Input should be a valid dictionary or instance of ReplyKeyboardMarkup [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ReplyKeyboardRemove
+  Input should be a valid dictionary or instance of ReplyKeyboardRemove [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+reply_markup.ForceReply
+  Input should be a valid dictionary or instance of ForceReply [type=model_type, input_value=[{'text': 'Обратит...back_data': 'action_2'}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+2024-11-06 19:39:17,118 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:39:17,367 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:39:24,397 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:39:24,635 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:39:25,009 - aiogram.event - INFO - Update id=883190061 is handled. Duration 296 ms by bot id=6998966428
+2024-11-06 19:39:26,885 - aiogram.event - INFO - Update id=883190062 is handled. Duration 235 ms by bot id=6998966428
+2024-11-06 19:39:32,981 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:39:33,101 - aiogram.event - INFO - Update id=883190063 is handled. Duration 2937 ms by bot id=6998966428
+2024-11-06 19:44:54,813 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:44:55,065 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:45:03,558 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:45:03,860 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:45:04,206 - aiogram.event - INFO - Update id=883190064 is handled. Duration 266 ms by bot id=6998966428
+2024-11-06 19:45:05,609 - aiogram.event - INFO - Update id=883190065 is handled. Duration 94 ms by bot id=6998966428
+2024-11-06 19:45:13,716 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:45:13,813 - aiogram.event - INFO - Update id=883190066 is handled. Duration 2875 ms by bot id=6998966428
+2024-11-06 19:45:37,491 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:45:37,750 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:47:44,675 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:47:44,931 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:47:51,289 - aiogram.event - INFO - Update id=883190067 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:47:52,534 - aiogram.event - INFO - Update id=883190068 is handled. Duration 125 ms by bot id=6998966428
+2024-11-06 19:48:04,623 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:48:04,731 - aiogram.event - INFO - Update id=883190069 is handled. Duration 3000 ms by bot id=6998966428
+2024-11-06 19:48:29,503 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:48:29,773 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:48:36,666 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:48:36,877 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:48:37,207 - aiogram.event - INFO - Update id=883190070 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:48:38,666 - aiogram.event - INFO - Update id=883190071 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:48:40,967 - aiogram.event - INFO - Update id=883190072 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:48:42,044 - aiogram.event - INFO - Update id=883190073 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:48:54,125 - aiogram.event - INFO - Update id=883190074 is handled. Duration 15 ms by bot id=6998966428
+2024-11-06 19:48:56,540 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:48:56,791 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:49:20,379 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:49:20,885 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:49:24,797 - aiogram.event - INFO - Update id=883190075 is handled. Duration 266 ms by bot id=6998966428
+2024-11-06 19:49:29,234 - aiogram.event - INFO - Update id=883190076 is handled. Duration 16 ms by bot id=6998966428
+2024-11-06 19:51:00,344 - aiogram.event - INFO - Update id=883190077 is handled. Duration 14 ms by bot id=6998966428
+2024-11-06 19:51:00,723 - aiogram.event - INFO - Update id=883190078 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:51:01,099 - aiogram.event - INFO - Update id=883190079 is handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:51:02,677 - aiogram.event - INFO - Update id=883190080 is handled. Duration 218 ms by bot id=6998966428
+2024-11-06 19:51:05,563 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:51:05,681 - aiogram.event - INFO - Update id=883190081 is handled. Duration 1235 ms by bot id=6998966428
+2024-11-06 19:51:14,625 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:51:14,900 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:51:33,454 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:51:33,703 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:51:34,403 - aiogram.event - INFO - Update id=883190082 is handled. Duration 264 ms by bot id=6998966428
+2024-11-06 19:51:35,772 - aiogram.event - INFO - Update id=883190083 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 19:51:38,670 - aiogram.event - INFO - Update id=883190084 is handled. Duration 125 ms by bot id=6998966428
+2024-11-06 19:52:11,177 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:52:11,434 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:52:18,275 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:52:18,480 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:52:18,891 - aiogram.event - INFO - Update id=883190085 is handled. Duration 264 ms by bot id=6998966428
+2024-11-06 19:52:20,999 - aiogram.event - INFO - Update id=883190086 is handled. Duration 156 ms by bot id=6998966428
+2024-11-06 19:52:22,671 - aiogram.event - INFO - Update id=883190087 is handled. Duration 358 ms by bot id=6998966428
+2024-11-06 19:52:24,089 - aiogram.event - INFO - Update id=883190088 is handled. Duration 438 ms by bot id=6998966428
+2024-11-06 19:52:27,852 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:52:28,103 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:52:55,284 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:52:55,560 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:52:56,979 - aiogram.event - INFO - Update id=883190089 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:52:58,914 - aiogram.event - INFO - Update id=883190090 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 19:52:59,767 - aiogram.event - INFO - Update id=883190091 is handled. Duration 108 ms by bot id=6998966428
+2024-11-06 19:53:00,968 - aiogram.event - INFO - Update id=883190092 is handled. Duration 358 ms by bot id=6998966428
+2024-11-06 19:53:03,938 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:53:04,174 - aiogram.event - INFO - Update id=883190093 is handled. Duration 2422 ms by bot id=6998966428
+2024-11-06 19:54:13,178 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:54:13,429 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:54:19,524 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:54:19,745 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:54:20,105 - aiogram.event - INFO - Update id=883190094 is handled. Duration 281 ms by bot id=6998966428
+2024-11-06 19:54:21,456 - aiogram.event - INFO - Update id=883190095 is handled. Duration 266 ms by bot id=6998966428
+2024-11-06 19:54:24,732 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:54:24,933 - aiogram.event - INFO - Update id=883190096 is handled. Duration 2485 ms by bot id=6998966428
+2024-11-06 19:54:25,510 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:54:25,761 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:57:14,163 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:57:14,405 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:57:14,939 - aiogram.event - INFO - Update id=883190097 is handled. Duration 422 ms by bot id=6998966428
+2024-11-06 19:57:17,882 - aiogram.event - INFO - Update id=883190098 is handled. Duration 93 ms by bot id=6998966428
+2024-11-06 19:57:18,745 - aiogram.event - INFO - Update id=883190099 is handled. Duration 94 ms by bot id=6998966428
+2024-11-06 19:57:21,578 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:57:21,728 - aiogram.event - INFO - Update id=883190100 is handled. Duration 1625 ms by bot id=6998966428
+2024-11-06 19:57:37,656 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:57:37,931 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:58:12,915 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:58:13,181 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:58:13,567 - aiogram.event - INFO - Update id=883190101 is handled. Duration 312 ms by bot id=6998966428
+2024-11-06 19:58:14,927 - aiogram.event - INFO - Update id=883190102 is handled. Duration 375 ms by bot id=6998966428
+2024-11-06 19:58:15,989 - aiogram.event - INFO - Update id=883190103 is not handled. Duration 0 ms by bot id=6998966428
+2024-11-06 19:58:15,989 - aiogram.event - ERROR - Cause exception while process update id=883190103 by bot id=6998966428
+TypeError: return_to_main_menu() missing 2 required positional arguments: 'message' and 'state'
+Traceback (most recent call last):
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\middlewares\logging_middleware.py", line 11, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\TR_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\job_j\Documents\PyProjects\sabirbot\handlers\consultation.py", line 31, in handle_resp_text
+    await return_to_main_menu()
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: return_to_main_menu() missing 2 required positional arguments: 'message' and 'state'
+2024-11-06 19:59:31,539 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 19:59:31,794 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:59:38,443 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 19:59:38,674 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 19:59:44,607 - aiogram.event - INFO - Update id=883190104 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 19:59:46,883 - aiogram.event - INFO - Update id=883190105 is handled. Duration 265 ms by bot id=6998966428
+2024-11-06 19:59:49,162 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 19:59:49,251 - aiogram.event - INFO - Update id=883190106 is handled. Duration 1452 ms by bot id=6998966428
+2024-11-06 19:59:59,867 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 20:00:00,126 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 20:00:10,076 - aiogram.dispatcher - INFO - Start polling
+2024-11-06 20:00:10,377 - aiogram.dispatcher - INFO - Run polling for bot @LiveTraider_bot id=6998966428 - 'Traiding95'
+2024-11-06 20:00:12,357 - aiogram.event - INFO - Update id=883190107 is handled. Duration 250 ms by bot id=6998966428
+2024-11-06 20:00:13,610 - aiogram.event - INFO - Update id=883190108 is handled. Duration 312 ms by bot id=6998966428
+2024-11-06 20:00:14,816 - aiogram.event - INFO - Update id=883190109 is handled. Duration 156 ms by bot id=6998966428
+2024-11-06 20:00:19,099 - aiogram.dispatcher - INFO - Polling stopped
+2024-11-06 20:00:19,347 - aiogram.dispatcher - INFO - Polling stopped for bot @LiveTraider_bot id=6998966428 - 'Traiding95'

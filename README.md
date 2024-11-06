@@ -1,2 +1,1 @@
-# urist_bot
-An intelligent law assistant
+# my_telegram_bot
